@@ -1,3 +1,5 @@
+<img width="419" alt="Cost_Drawio" src="https://github.com/user-attachments/assets/c13e1d01-9755-4efd-9c52-27ab23349c9b">
+
 # AWS Cloud Cost Optimization - Identifying Stale Resources
 
 ## Identifying Stale EBS Snapshots
@@ -20,7 +22,7 @@ Service(EC2) : DeleteSnapshot , DescribeSnapshots
 Service(EC2-list) : DescribeInstances , DescribeVolumes
 ```
 
-<img width="419" alt="Cost_Drawio" src="https://github.com/user-attachments/assets/c13e1d01-9755-4efd-9c52-27ab23349c9b">
+
 
 
 
